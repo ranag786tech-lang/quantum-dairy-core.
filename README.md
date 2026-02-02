@@ -1,1 +1,1 @@
-# quantum-dairy-core.
+# quantum-dairy-core
